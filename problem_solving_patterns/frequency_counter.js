@@ -31,7 +31,6 @@ function isSame(array1, array2) {
             return false;
         }
     }
-
     return true;
 }
 
